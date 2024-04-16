@@ -1,0 +1,13 @@
+.pizzaCard {
+  border: 1px solid black;
+  text-align: center;
+  width: 500px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+
+.pizzaImg {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 5px;
+}
